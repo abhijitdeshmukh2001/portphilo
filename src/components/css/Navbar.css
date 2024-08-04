@@ -1,0 +1,37 @@
+.navbar {
+    background-color: #333;
+    padding: 1rem;
+  }
+  .logo{
+    font-size: 2rem;
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem;
+    display: inline-block;
+    transition: color 0.3s;
+  }
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .navbar li {
+    margin: 0 1rem;
+  }
+  
+  .navbar a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .navbar a:hover {
+    background-color:rgba(82, 182, 90, 0.41);
+    color:#fff; /* Change to the desired hover text color */
+  }
+  
+  
+  

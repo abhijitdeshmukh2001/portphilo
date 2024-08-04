@@ -1,0 +1,15 @@
+/* Projects.css */
+.projects {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+ .ptext{
+  font-size: 40px;
+  color: rgba(82, 182, 90, 0.41);
+
+ }
+
+ .btnsgrop button{
+  color: aqua;
+ }

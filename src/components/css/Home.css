@@ -1,0 +1,48 @@
+.heading-text{
+    font-size: 70px;
+    color: rgba(82, 182, 90, 0.41);
+    animation-name: example;
+    animation-duration: 4s;
+    transition: width 2s;
+}
+.btns{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.cbtn{
+    
+    border: 1px solid ;
+}
+
+.cbtn:hover{
+    background-color: rgba(82, 182, 90, 0.41);
+}
+
+.ctext{
+    color:  rgba(82, 182, 90, 0.41);
+
+}
+.isize{
+    width: 50%;
+    height: 50%;
+    margin-top: 3rem;
+}
+
+.heading-text{transition-timing-function: ease-in-out;}
+
+
+
+@keyframes example {
+    from {color: rgb(45, 247, 217);}
+    to {color: rgb(115, 249, 218);}
+  }
+
+
+
+
+
+
+
+

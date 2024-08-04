@@ -1,0 +1,25 @@
+.main{
+    padding: 2rem;
+    text-align: center;
+    background-color: rgb(88, 228, 179);
+    height: 35vh;
+    width: 100%;
+}
+.ftext{
+    color: rgba(82, 182, 90, 0.41);    
+}
+
+.navlist ul li{
+    list-style-type: none;
+    
+}
+.navlist ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+    gap: 3rem;
+}
+.copy{
+    margin-top: 2rem;
+}
