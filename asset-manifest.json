@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portphilo/static/css/main.beceea48.css",
+    "main.js": "/portphilo/static/js/main.d9870617.js",
+    "index.html": "/portphilo/index.html",
+    "main.beceea48.css.map": "/portphilo/static/css/main.beceea48.css.map",
+    "main.d9870617.js.map": "/portphilo/static/js/main.d9870617.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beceea48.css",
+    "static/js/main.d9870617.js"
+  ]
+}
